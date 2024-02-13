@@ -1,4 +1,4 @@
-# telecom_ml
+# Interconnect
 The project involved crafting a sophisticated machine learning model to predict customer churn for Interconnect, a leading telecommunications firm. The aim was to identify and understand the key drivers of customer departure, thereby improving retention strategies and enhancing customer satisfaction, with the model displaying a commendable ROC-AUC score of 93.89%.
 
 The endeavor highlighted skills in exploratory data analysis, revealing pivotal insights that guided strategic decision-making for customer retention. Proficiency in data encoding techniques was essential in preparing the dataset for modeling, and rigorous model testing was conducted to ensure accuracy and reliability in churn prediction, thereby bolstering the company's strategic initiatives to boost customer retention.
